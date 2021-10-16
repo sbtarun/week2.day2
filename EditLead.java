@@ -43,7 +43,7 @@ public class EditLead {
 		} else {
 			System.out.println("Company name is not changed");
 		}
-
+		driver.close();
 	}
 
 }
